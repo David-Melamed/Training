@@ -1,0 +1,3 @@
+[submodule "Training-submodule"]
+	path = Training-submodule
+	url = https://github.com/David-Melamed/Training-submodule.git
